@@ -1,14 +1,18 @@
+# My Name is Paul. I'm a software engineer 🇮🇪🇨🇦
+
  ## Hey There!
  
- ### 👋 Welcome to my git repo.
- ### 👷 It's a work in progress! 🏗️
+ ### 👋 Welcome to my git repo,
+ ### 👷 It's still a work in progress! 🏗️
+ 
+#### 📚 Full stack developer
+#### 💡 (Soon to be) Lighthouse Labs Graduate (Toronto)
+
+#### 🈺 Experience in QA, Implementation, DevOps.
+
 <br>
-📚 Currently completing a bootcamp in full stack development
 
-🈺 Working as an implementation engineer
+[![My Skills](https://skillicons.dev/icons?i=css,firebase,angular,gcp,git,mysql,github,html,eclipse,postgres,java,bash,jquery,js,jenkins,nodejs,postman,py,raspberrypi,react,regex,ruby,rails,selenium,sass,ts,bootstrap,vim,vscode,vue,jest,&theme=light&perline=8)](https://skillicons.dev)
 
-
-[![My Skills](https://skillicons.dev/icons?i=css,firebase,gcp,nodejs,html,eclipse,java,js,jenkins,nodejs,postman,py,raspberrypi,react,regex,ruby,selenium,ts,vim,vscode,vue,&theme=light&perline=7)](https://skillicons.dev)
-
-日本語もOKです！よろしくお願いします。
-<br>langues.言語.languages: 🇬🇧🇯🇵🇫🇷
+I speak: この言語話せます：Je parle: 🇬🇧🇯🇵🇫🇷 <br>
+日本語も話せます！よろしくお願いします。
