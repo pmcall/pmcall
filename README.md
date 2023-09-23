@@ -8,7 +8,7 @@
 #### 📚 Full stack developer
 #### 💡 (Soon to be) Lighthouse Labs Graduate (Toronto)
 
-#### 🈺 Experience in QA, Implementation, DevOps.
+#### 🈺 Experience in QA, Implementation, DevOps, Software Development.
 
 <br>
 
