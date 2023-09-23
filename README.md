@@ -12,7 +12,7 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=css,firebase,angular,gcp,git,mysql,github,html,eclipse,postgres,java,bash,jquery,js,jenkins,nodejs,postman,py,raspberrypi,react,regex,ruby,rails,selenium,sass,ts,bootstrap,vim,vscode,vue,jest,&theme=light&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,firebase,angular,gcp,git,mysql,github,html,eclipse,postgres,java,bash,nextjs,jquery,js,jenkins,nodejs,postman,py,raspberrypi,react,regex,ruby,rails,selenium,sass,ts,bootstrap,vim,vscode,vue,jest,&theme=light&perline=8)](https://skillicons.dev)
 
 I speak: この言語話せます：Je parle: 🇬🇧🇯🇵🇫🇷 <br>
 日本語も話せます！よろしくお願いします。
